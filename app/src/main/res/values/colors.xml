@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/klein_blue</color>
+    <color name="colorPrimaryDark">@color/klein_blue</color>
+    <color name="colorAccent">@color/red_orange</color>
+
+    <color name="buttonPrimaryNormal">@color/klein_blue_60</color>
+    <color name="buttonPrimaryPressed">@color/klein_blue</color>
+    <color name="buttonDisabled">@color/klein_blue_20</color>
+
+    <color name="textNormal">@color/errie_black</color>
+    <color name="textCaption">@color/errie_black_60</color>
+
+    <!-- Palette colors -->
+    <color name="klein_blue">#002CC1</color>
+    <color name="klein_blue_80">#CC002CC1</color>
+    <color name="klein_blue_60">#99002CC1</color>
+    <color name="klein_blue_40">#66002CC1</color>
+    <color name="klein_blue_20">#33002CC1</color>
+    <color name="red_orange">#FE3E2B</color>
+    <color name="errie_black">#071923</color>
+    <color name="errie_black_60">#99071923</color>
+</resources>

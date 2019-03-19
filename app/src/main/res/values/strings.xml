@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="title_currency_exchange">Valiutos konvertavimas</string>
+    <string name="label_current_balance">Galutinis likutis:</string>
+    <string name="button_convert">Konvertuoti</string>
+    <string name="error_message_generic">Nenumatyta klaida</string>
+    <string name="error_not_enough_money">Nepakankamas pinigų likutis</string>
+    <string name="transaction_successful">Jūs konvertavote %s %s į %s %s. Komisinis mokestis - %s %s. (%s)</string>
+    <string name="pay_fee_free">Nemokamai</string>
+    <string name="pay_fee_regular">%s\%% komisinis mokestis</string>
+    <string name="label_total_payment_fee">Komisiniai mokesčiai:</string>
+    <string name="error_same_currency_type">Konvertuoti į tą pačią valiutą negalima.</string>
+    <string name="error_no_network">Nėra Interneto, patikrinkite nustatymus</string>
+
+</resources>
